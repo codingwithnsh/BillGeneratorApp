@@ -1,7 +1,7 @@
 # Step-by-Step Guide to Build the Pizza Mania App
 
 ## 1. Setting Up Kodular
-1. Go to [Kodular Creator](https://creator.kodular.io/).
+1. Go to MIT App Inventor.
 2. Create a new project and name it "Pizza Mania."
 
 ## 2. Designing the User Interface
